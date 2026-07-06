@@ -9,7 +9,7 @@
 ## 📌 Sobre o Projeto
 Este repositório contém os artefatos do MVP da Sprint de "Projeto da Interação Humano Computador e da Interface do Usuário". O foco deste trabalho é o **MedRoom ADM**, um sistema administrativo desenvolvido para gerenciar produtos, clientes e contratos da MedRoom, uma empresa de tecnologia educacional voltada para a área da saúde.
 
-Neste reprojeto, o escopo foi direcionado ao **fluxo de compra e gerenciamento de assinaturas**, buscando tornar o processo mais simples, transparente e seguro para médicos residentes que possuem uma rotina intensa.
+Neste projeto, o escopo foi direcionado ao **fluxo de compra e gerenciamento de assinaturas**, buscando tornar o processo mais simples, transparente e seguro para médicos residentes que possuem uma rotina intensa.
 
 ## 🎯 Objetivos do Reprojeto
 Foram definidos dois objetivos principais para a interação:
