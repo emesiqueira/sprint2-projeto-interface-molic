@@ -26,8 +26,8 @@ O design foi guiado pelas necessidades de duas personas principais:
 * **Wireframes / Protótipo de Alta Fidelidade (UI):** Interfaces desenhadas para os cenários de login, catálogo de produtos, checkout, gerenciamento de assinaturas e troca de plano/pagamento.
 
 ## 🔗 Links Importantes
-* **Protótipo Interativo (Figma):** [[LINK]](https://www.figma.com/proto/mZArYuHja9y7SUEMQkNXc2/MedRoom-ADM?node-id=0-1&p=f&viewport=3673%2C1661%2C0.67&t=XQu35o8FK8FPgxam-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A7438)
-* **Relatório Completo (PDF):** [[LINK]](https://docs.google.com/document/d/1D--kNco4wCqFWd68ynhRms6WUNW1skFSl_EZaFFSKCg/edit?usp=sharing)
+* **Protótipo Interativo (Figma):** [[LINK EXTERNO]](https://www.figma.com/proto/mZArYuHja9y7SUEMQkNXc2/MedRoom-ADM?node-id=0-1&p=f&viewport=3673%2C1661%2C0.67&t=XQu35o8FK8FPgxam-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A7438)
+* **Relatório Completo (PDF):** [[LINK EXTERNO]](https://docs.google.com/document/d/1D--kNco4wCqFWd68ynhRms6WUNW1skFSl_EZaFFSKCg/edit?usp=sharing)
 
 ---
 *Projeto acadêmico desenvolvido para fins de avaliação.*
